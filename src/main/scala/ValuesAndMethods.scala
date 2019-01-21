@@ -1,0 +1,1 @@
+../../../../../labs/values-and-methods/src/templates/scala/ValuesAndMethods.scala

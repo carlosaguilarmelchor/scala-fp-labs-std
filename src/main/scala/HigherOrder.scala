@@ -1,0 +1,1 @@
+../../../../../labs/higher-order/src/templates/scala/HigherOrder.scala
