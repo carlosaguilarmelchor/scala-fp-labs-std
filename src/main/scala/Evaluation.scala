@@ -4,4 +4,5 @@ object EvaluationApp extends App {
   
   // lazy val, def and val
   println("\n-> lazy val, def and val")
+  
 }

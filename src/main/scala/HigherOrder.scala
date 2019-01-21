@@ -25,7 +25,7 @@ object HigherOrderApp extends App {
   // strings
   import FactorialApp._
 
-  def factStr = factorial(1000).toString
+  //def factStr = factorial(1000).toString
 
   def numZeroFact = ???
 
