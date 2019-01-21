@@ -1,1 +1,3 @@
-../../../../../labs/hello/src/main/scala/Hello.scala
+object HelloApp extends App {
+  println("Hello World!")
+}
