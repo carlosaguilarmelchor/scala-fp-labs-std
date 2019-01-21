@@ -1,2 +1,2 @@
-# scala-fp-std
-Student repository with Scala Templates
+# scala-fp-labs-std
+Student repository with Scala labs Templates
