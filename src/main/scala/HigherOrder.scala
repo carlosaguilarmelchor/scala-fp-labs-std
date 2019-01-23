@@ -18,9 +18,6 @@ object HigherOrderApp extends App {
 
   def sumOddSquares = ???
 
-  def collatz(n: Int): Int = ???
-
-  def collatzConj = ???
 
   // strings
   import FactorialApp._
@@ -31,11 +28,4 @@ object HigherOrderApp extends App {
 
   def iLoveScala = ???
 
-  def countSequence(sub: String): (String => Int) = ???
-
-  def countSeq123Fact = ???
-
-  def indexSequence(sub: String): (String => List[Int]) = ???
-
-  def indexSeq123Fact = ???
 }
